@@ -1,0 +1,17 @@
+{
+  "name": "jobify",
+  "version": "1.0.0",
+  "description": "Primeira aplicação do curso JavaScript DevPleno",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
